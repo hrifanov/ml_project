@@ -1,0 +1,18 @@
+name: my_env
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - opencv
+  - scipy
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - pathlib
+  - keras
+  - keras-tuner
+  - tensorflow
+  - face_recognition
